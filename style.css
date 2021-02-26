@@ -1,0 +1,10 @@
+nav {position: fixed; top:0; left:0; width: 100%; ; font-size: 16px;  background-color:white; border-bottom:solid; border-bottom-width:1px; border-bottom-color:#598740; padding-bottom:15px;}
+#logo-small {text-transform:uppercase; font-family: 'Thasadith', sans-serif; font-size:24px; color: #598740; display: inline;}
+.anchor {list-style-type:none; font-size:16px; margin-top:25px}
+.anchor li {display: inline; }
+.anchor a{color: #598740; text-decoration:none;font-family: 'Thasadith', sans-serif; padding-right: 10px;  padding-left: 50px;}
+.anchor a:hover {color:#601AA4;}
+#rsvp {margin-left: 50px; font-family:'Thasadith'; font-weight:bold; font-size:20px; border: solid; border-width:2px; border-radius:15px; padding-left:15px; padding-right:15px; color: #598740; border-color:#598740; background-color:white;}
+#rsvp:hover {color:#601AA4; border-color:#601AA4;}
+#main-page {margin-top:75px;}
+#main-photo {width:30%; padding-top: 20px; margin-left:50px;}
